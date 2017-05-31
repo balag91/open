@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 sd.vksvnivlwnbw
 =======
 # open
